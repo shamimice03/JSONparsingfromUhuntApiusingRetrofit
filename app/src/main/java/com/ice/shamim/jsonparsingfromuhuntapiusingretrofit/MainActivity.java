@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity  {
     String User_ID;
     private List<SubmissionDetailsModelClass> listItems;
 
-    String[][] data = new String[5000][10];
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
